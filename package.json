@@ -7,5 +7,8 @@
   },
   "author": "Katie McNeil",
   "license": "MIT",
-  "homepage": "https://github.com/thekatiemcneil/magic-dates#readme"
+  "homepage": "https://github.com/thekatiemcneil/magic-dates#readme",
+  "dependencies": {
+    "date-fns": "^2.27.0"
+  }
 }
