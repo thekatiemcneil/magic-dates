@@ -1,4 +1,26 @@
 {
   "name": "@thekatiemcneil/magic-dates",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thekatiemcneil/magic-dates.git"
+  },
+  "author": "Katie McNeil",
+  "license": "MIT",
+  "homepage": "https://github.com/thekatiemcneil/magic-dates#readme",
+  "dependencies": {
+    "babel-jest": "^27.4.5",
+    "date-fns": "^2.27.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.5",
+    "eslint": "^8.4.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3",
+    "jest": "^27.4.5",
+    "prettier": "2.5.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
 }
