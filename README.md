@@ -18,9 +18,9 @@ npm install @thekatiemcneil/magic-dates
 import { formatFormalDate } from "@thekatiemcneil/magic-dates"
 
 const sampleDate = '2021-07-15';
-const dateIsPastDay = formatFormalDate(sampleDate)
+const formalDate = formatFormalDate(sampleDate)
 
-// returns July 15, 2021
+// formalDate returns July 15, 2021
 ```
 
 ## License
